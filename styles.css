@@ -1,0 +1,10 @@
+@font-face {
+  font-family: 'Billet-Standard';
+  src: url(./Billet-Standard.eot);
+  src: url(./Billet-Standard.eot?#iefix) format('embedded-opentype'),
+       url(./Billet-Standard.otf) format('otf'),
+       url(./Billet-Standard.svg#Billet-Standard) format('svg'),
+       url(./Billet-Standard.ttf) format('truetype'),
+       url(./Billet-Standard.woff) format('woff'),
+       url(./Billet-Standard.woff2) format('woff2');
+}
